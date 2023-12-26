@@ -1,0 +1,82 @@
+<html>
+<head>
+
+<title>pakistan</title>
+
+<style>
+.mycountry {color:lightgreen}
+.mypara {color:brown}
+
+</style>
+
+</head>
+<marquee behavior="scroll"direction="left">pakistan is our country.</marquee>
+
+
+<body style="background-color:gray">
+
+
+<h1 style="background-color:red">pakistan history</h1>
+
+
+<p class="mycountry">In 1947, British India gained independence, and the region was divided into two separate nations, India and Pakistan, based on religious lines.
+Pakistan was created as a separate state for Muslims, consisting of two regions, West Pakistan (present-day Pakistan) and East Pakistan (present-day Bangladesh</p>
+
+<h2>list pakistan  provinces</h2>
+
+<ul>
+
+<li class="mypara">sindh</li>
+<li>punjab</li>
+<li>kpk</li>
+<li>Balochistan</li>
+
+</ul>
+
+<h3>list bigest city in pakistan </h3>
+
+
+
+
+
+<ol>
+
+
+<li>karachi</li>
+<li>lahore</li>
+<li>islamabad</li>
+<li>rawlpindi</li>
+
+</ol>
+
+<video>
+<source src="https://youtu.be/MjxGwfa5lxw?si=DCuKPaAzWE8XiC0c-mh">
+</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MjxGwfa5lxw?si=DCuKPaAzWE8XiC0c" title="YouTube video player" frameborder="0" allow="accelerometer; 
+
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
